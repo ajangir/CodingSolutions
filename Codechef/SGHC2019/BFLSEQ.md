@@ -1,4 +1,5 @@
 Handshakes
+
 All submissions for this problem are available.On planet Chefland, there are N countries which want to merge into a single large country. This process happens in many steps, and you are in charge of planning this. In a single step, you can choose any two countries, X and Y, and merge them into one country. But when you do so, every citizen of X has to shake hands with every citizen of Y. And all the citizens of X and Y becomes citizens of the newly formed country.
 
 You want to do the merging, so that the total number of handshakes, at the end of the process, is minimized. You are given the number of citizens in each of the N countries initially: C1,C2, ..,CN. Output the minimum total number of handshakes required to merge them all into one country.
