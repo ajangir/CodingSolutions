@@ -1,1 +1,1 @@
-Solutions for coding problems.
+Solutions for coding problems
