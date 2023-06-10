@@ -1,0 +1,10 @@
+"66.180.247.236 - - [15/Apr/2022:00:00:19 +0530] "GET /customers HTTP/1.1" 200 163 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+"1.193.102.126 - - [15/Apr/2022:00:00:20 +0530] "GET /site/search?q=competitors&lang=en HTTP/1.1" 200 163 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 12.3; rv:99.0) Gecko/20100101 Firefox/99.0
+"75.21.4.162 - - [15/Apr/2022:00:00:33 +0530] "GET / HTTP/1.1" 200 163 "-" "Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Mobile Safari/537.36 OPR/63.3.3216.58675
+"83.104.160.161 - - [15/Apr/2022:00:00:48 +0530] "GET /site/search?q=innovation&lang=en HTTP/1.1" 200 163 "-" "Mozilla/5.0 (X11; CrOS armv7l 14526.69.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.82 Safari/537.36
+"69.2.78.81 - - [15/Apr/2022:00:01:03 +0530] "GET /resources/common-questions HTTP/1.1" 200 163 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_3_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15
+"23.108.224.30 - - [15/Apr/2022:00:01:21 +0530] "GET /case-studies/consumer-industrial HTTP/1.1" 200 163 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36 Vivaldi/4.3
+"24.51.169.183 - - [15/Apr/2022:00:01:33 +0530] "GET /site/search?q=drishti&lang=en HTTP/1.1" 200 163 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0
+"82.170.111.153 - - [15/Apr/2022:00:02:00 +0530] "GET /about/leadership HTTP/1.1" 200 163 "-" "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0
+"42.156.104.191 - - [15/Apr/2022:00:02:20 +0530] "GET /products HTTP/1.1" 200 163 "-" "Mozilla/5.0 (X11; CrOS x86_64 14526.69.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.82 Safari/537.36
+"179.1.191.221 - - [15/Apr/2022:00:02:38 +0530] "GET / HTTP/1.1" 200 163 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36 Vivaldi/4.3
